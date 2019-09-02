@@ -1,2 +1,2 @@
-# graphql-python
+# GraphQL Python Tutorial
 Hacker News
